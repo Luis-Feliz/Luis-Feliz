@@ -3,7 +3,7 @@
 I am Luis Feliz(He/Him), A graduate of Kutztown University with a Bachelors of Game Development, and a Minors in Computer Science, starting from May 2023. I aim to create games of various types as I find joy and interest in the creating and playing of video games!
 
 #### **My Skills**
-<img src="https://img.icons8.com/color/48/0000000/c-plus-plus"><img src="https://img.icons8.com/color/48/0000000/c-sharp-logo"><img src="https://img.icons8.com/color/48/0000000/adobe-illustrator"><img src="https://img.icons8.com/color/48/0000000/adobe-photoshop">
+<img src="https://img.icons8.com/color/48/0000000/c-plus-plus"><img src="https://img.icons8.com/color/48/0000000/c-sharp-logo"><img src="https://img.icons8.com/color/48/0000000/html"><img src="https://img.icons8.com/color/50/0000000/php"><img src="https://img.icons8.com/color/48/0000000/css"><img src="https://img.icons8.com/color/48/0000000/adobe-illustrator"><img src="https://img.icons8.com/color/48/0000000/adobe-photoshop">
 
 #### **Come See What I've worked on!**
 Website link
