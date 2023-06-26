@@ -6,11 +6,12 @@ I am Luis Feliz(He/Him), A graduate of Kutztown University with a Bachelors of G
 
 #### **My Skills**
 <img src="https://img.icons8.com/color/48/0000000/c-plus-plus">
-<img src="https://img.icons8.com/color/48/0000000/c-sharp">
+<img src="https://img.icons8.com/color/48/0000000/cs">
 <img src="https://img.icons8.com/color/48/0000000/html">
 <img src="https://img.icons8.com/color/50/0000000/php">
 <img src="https://img.icons8.com/color/48/0000000/css">
-<img src="https://img.icons8.com/color/48/0000000/java-script">
+<img src="https://img.icons8.com/color/48/0000000/javascript">
+
 #### **Come See What I've worked on!**
 <a href="https://luis-feliz.github.io">Website link</a>
 
