@@ -10,4 +10,4 @@ I am Luis Feliz(He/Him), A graduate of Kutztown University with a Bachelors of G
 <a href="https://luis-feliz.github.io">luis-feliz.github.io</a>
 
 #### **What's next?**
-As of now I am working on website creation to make my profolio look more improved and professional.
+As of now I am working on more projects to be added to my portfolio website.
